@@ -16,4 +16,4 @@ notebooks/louvain.ipynb: Explorations of Node and Cluster classes for our algori
 
 notebooks/toy_network_and_data_preprocessing.ipynb: This notebook details the analysis of the Les Misérables network with the non-distributed 'python-louvain' library, as well as the preprocessing done to convert the ArXiv metadata into a coauthorship network.
 
-CSC502 Presentation_ArchinukMacDonaldZiesel.pdf: a PDF version of our slides for the class presentation.
+CSC502 Presentation_Archinuk_MacDonald_Ziesel.pdf: a PDF version of our slides for the class presentation.
